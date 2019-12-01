@@ -11,3 +11,13 @@ pygame ,  neat ,  random ,  os,  time
 Then run python 1.py  
 And you will see the following screen:  
 
+<p align="center">
+  <img width="600" height="200" src="imgs/1.JPG">
+</p>  
+<p align="center">
+  <img width="600" height="200" src="imgs/2.JPG">
+</p>  
+<p align="center">
+  <img width="600" height="200" src="imgs/3.JPG">
+</p>
+
