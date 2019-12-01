@@ -12,12 +12,12 @@ Then run python 1.py
 And you will see the following screen:  
 
 <p align="center">
-  <img width="200" height="600" src="imgs/1.JPG">
+  <img width="300" height="500" src="imgs/1.JPG">
 </p>  
 <p align="center">
-  <img width="200" height="600" src="imgs/2.JPG">
+  <img width="300" height="500" src="imgs/2.JPG">
 </p>  
 <p align="center">
-  <img width="300" height="300" src="imgs/3.JPG">
+  <img width="400" height="400" src="imgs/3.JPG">
 </p>
 
